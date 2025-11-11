@@ -20,7 +20,7 @@ with st.sidebar:
 
     # 1) API key input (masked)
     api_key_input = st.text_input("Enter your OpenAI API key (sk-...)", type="password")
-    st.caption
+
 
     # 2) choose role
     st.subheader("Choose a role")
