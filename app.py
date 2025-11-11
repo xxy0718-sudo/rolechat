@@ -58,8 +58,7 @@ with st.sidebar:
     max_tokens = st.slider("Max tokens", 100, 1500, 600)
 
     st.markdown("---")
-    st.caption("Built for classroom use • Not financial/advice-critical")
-
+   
 # -------------------------
 # Set API key
 # -------------------------
