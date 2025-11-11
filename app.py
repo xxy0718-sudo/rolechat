@@ -84,3 +84,4 @@ with col2:
 st.markdown("---")
 st.caption("© 2025 Museum Dashboard by [Your Name]. Built with Streamlit.")
 
+
